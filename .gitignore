@@ -38,3 +38,8 @@ out/
 
 ### RSA Keys ###
 src/main/resources/certs/
+
+### Environment Variables ###
+.env
+.env.local
+.env.*.local
